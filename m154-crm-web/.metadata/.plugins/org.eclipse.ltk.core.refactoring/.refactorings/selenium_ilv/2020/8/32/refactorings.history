@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;ch.ilv.selenium&apos; to &apos;ilv/src/test/java&apos;&#x0D;&#x0A;- Original project: &apos;selenium_ilv&apos;&#x0D;&#x0A;- Destination element: &apos;ilv/src/test/java&apos;&#x0D;&#x0A;- Original element: &apos;selenium_ilv/src/ch.ilv.selenium&apos;" description="Copy package" destination="=ilv/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/" element1="/src&lt;ch.ilv.selenium" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1596615378986" version="1.0"/>
+</session>

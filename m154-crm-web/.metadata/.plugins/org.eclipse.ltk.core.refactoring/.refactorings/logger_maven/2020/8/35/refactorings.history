@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;ch.mh.logger.log&apos; to &apos;logger_ant/src&apos;&#x0D;&#x0A;- Original project: &apos;logger_maven&apos;&#x0D;&#x0A;- Destination element: &apos;logger_ant/src&apos;&#x0D;&#x0A;- Original element: &apos;logger_maven/src/main/java/ch.mh.logger.log&apos;" description="Copy package" destination="=logger_ant/src" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;ch.mh.logger.log" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1598248293978" version="1.0"/>
+</session>
